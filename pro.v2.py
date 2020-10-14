@@ -5,10 +5,10 @@ from kivy.properties import ObjectProperty
 from kivy.uix.popup import Popup
 from kivy.uix.label import Label
 from kivy.core.window import Window
-#from pynput import keyboard
+
 
 Window.clearcolor = (0, 0, 0.1, 0.9)
-#Window.size = (500, 500)
+
 
 
 class login(Screen):
